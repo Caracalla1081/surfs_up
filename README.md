@@ -7,5 +7,6 @@ In order to help boster my cause to gain his trust in investing in my shop, I mu
 
 ###Analysis Results of Weathercomparison of June and December
 ![December vs. June: Precipitation](https://github.com/Caracalla1081/surfs_up/blob/2359a857f9a1ae2ac27f3e7541437b5582565995/Module%209%20Challenge/Images/Dec%20Vs%20June%20Precipitation.png)
+
 - Precipitation in June is on average almost a full inch less than December
 - The max day of preceipitation was higher in December by 2in. than it was in June
