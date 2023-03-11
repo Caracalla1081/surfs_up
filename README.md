@@ -15,7 +15,6 @@ In order to help boster my cause to gain his trust in investing in my shop, I mu
 ![December vs. June: Temperatures](https://github.com/Caracalla1081/surfs_up/blob/8b7a4cf15d7358ba7f0c64fb744022b195bc27f6/Module%209%20Challenge/Images/Dec%20Vs%20June%20Temperatures.png)
 - The average temperature in June is 3 degrees higher than in December
 - At the same time even though the average temperature is only 3 degrees higher in June in comparison with December, the minimum temperature in June was 10 degrees higher than the minimum in December.
-- - The gap does narrow as we move up each quarter percentile
 
 ## Summary of Analysis
 After looking at the results of the temperature comparisons between December and June, as well as the additional queries that I performed to gather the descriptive statistics for precipitation during those months; it would be my position that the weather over the course of the year is such to sustain the "Surf and Shake Shop" year-round. 
